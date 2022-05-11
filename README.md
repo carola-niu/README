@@ -1,9 +1,8 @@
 ### Hi there, i'm carola :owl:.
 
 
-> Currently studying computer science in Germany.
-- Although i am not clever enough to learn CS so fast,but i try to enjoy my CS learning.
-- Recently studying operating systems and computer architecture
+> I currently study computer science at LMU, Germany.
+> :sleepy: Recently i got stuck at Haskell and began to learn C# and Python. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carola-niu)](https://github.com/anuraghazra/github-readme-stats)
 
