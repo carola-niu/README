@@ -1,4 +1,4 @@
-### Hi there, i'm carola :owl:.
+### Hi there, i'm karol :owl:.
 
 
 - I'm currently studying computer science at LMU, Germany.
