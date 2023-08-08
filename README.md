@@ -2,7 +2,7 @@
 
 
 - I'm currently studying computer science at LMU, Germany.
-- I've been seeking a Bachelor Thesis this summer semester. Feel free to contact me if you could give me any guidance about thesis topic ideas.
+- I have been studying reinforcement learning and have been working on my bachelor's thesis. I'm open to any internship or student assistant opportunities this summer and beyond.
 - :sleepy: Study to survive. Girl run away fast as you can.
 
 
