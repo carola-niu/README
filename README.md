@@ -1,8 +1,8 @@
-### Hi there, i'm karol :owl:.
+### Hi there, i'm karo :owl:.
 
 
 - I'm currently studying computer science at LMU, Germany.
-- I have been studying reinforcement learning and have been working on my bachelor's thesis. I'm open to any internship or student assistant opportunities this summer and beyond.
+- I've been studying reinforcement learning and working on my bachelor's thesis. I'm open to any internship or student assistant opportunities this summer and beyond.
 - :sleepy: Study to survive. Girl run away fast as you can.
 
 
