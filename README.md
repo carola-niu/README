@@ -2,7 +2,7 @@
 
 
 - I'm currently studying computer science at LMU, Germany.
-- I've been studying reinforcement learning and working on my bachelor's thesis. I'm open to any internship or student assistant opportunities this summer and beyond.
+- I've been studying reinforcement learning and working on my bachelor's thesis. I'm open to any internship or student assistant opportunities this winter and beyond.
 - :sleepy: Study to survive. Girl run away fast as you can.
 
 
